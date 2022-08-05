@@ -5,7 +5,7 @@ Celebrity face Generator by DCGAN from scratch.
 Structure and hyperparameters from paper "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks".
 
 ### Progress
-![Progress Video](/assets/Progress.webm)
+![Progress GIF](/assets/Progress.gif)
 
 ### Discriminator Net Structure
 ![Discriminator Net Structure image](/assets/DiscriminatorNet.png)
