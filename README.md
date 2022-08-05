@@ -95,9 +95,9 @@ Trained on CPU.
  - Load model weights by pytorch API.
  - Generate random noise with lantent vector size(100).
  - Treat noise as regular tensor.
- -- Transpose channels from front to the end.
- -- Denormalize it ([0.5, 0.5, 0.5], [0.5, 0.5, 0.5])
- -- Plot with plot library.
+   - Transpose channels from front to the end.
+   - Denormalize it ([0.5, 0.5, 0.5], [0.5, 0.5, 0.5])
+   - Plot with plot library.
 
 
 
