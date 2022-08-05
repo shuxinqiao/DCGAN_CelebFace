@@ -31,7 +31,7 @@ Data from [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.c
 
 Data Structure(default in notebook):
 
-> root
+ root
 --> data
 ----> all images dir
 ------> 001.jpg
