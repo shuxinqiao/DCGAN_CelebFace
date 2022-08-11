@@ -2,7 +2,7 @@
 
 Celebrity face Generator by DCGAN from scratch. 
 
-Structure and hyperparameters from paper "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks".
+Structure and hyperparameters from paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf).
 
 ### Progress
 ![Progress GIF](/assets/Progress.gif)
